@@ -1,0 +1,32 @@
+﻿Name,Repository URL,Age (Months),Main Language,Files,LOC,Commits,Contributors,Size reported by Repository (KB),On store,Category
+ART SY*,https://github.com/artsy/eigen,56,Objective-C,1070,63953,5093,43,216114,Yes,Shopping
+Breadwallet,https://github.com/breadwallet/breadwallet,76,Objective-C,238,25738,1641,15,24580,Yes,Business and Economy
+Bridges,https://github.com/zgrossbart/bridges,85,Objective-C,489,67826,804,3,108980,No,Games
+Buck Tracker,https://github.com/hkalexling/Buck_Tracker,48,Swift,190,19176,61,3,11838,Yes,Utilities
+ChatSecure,https://github.com/ChatSecure/ChatSecure-iOS,97,Objective-C,510,40399,3263,16,47532,Yes,Social Networking
+CodeCombat,https://github.com/codecombat/codecombat-ios,61,C,140,33118,275,4,21085,No,Games
+Colloquy,https://github.com/colloquy/colloquy,199,Objective-C,742,88255,70002,10,174527,No,Utilities
+DesignerNews,https://github.com/MengTo/DesignerNewsApp,57,Objective-C,140,4639,375,5,24177,No,News and Magazines
+Endless,https://github.com/jcs/endless,58,Objective-C,85,9080,408,3,26770,Yes,Utilities
+Firefox,https://github.com/mozilla-mobile/firefox-ios,58,Swift,1089,257929,7162,120,443212,Yes,Utilities
+GBA4iOS*,https://bitbucket.org/rileytestut/gba4ios/,88,Objective-C,10315,1526886,596,9,197000,No,Games
+Gorillas,https://github.com/Lyndir/Gorillas,130,Objective-C,150,7920,337,1,559224,Yes,Games
+Hackers,https://github.com/weiran/Hackers,82,Swift,50,1919,609,3,143243,Yes,News and Magazines
+HN iOS Reader,https://github.com/bonzoq/hniosreader,58,Objective-C,80,3787,42,8,40534,Yes,News
+IRCCloud iOS App,https://github.com/irccloud/ios,79,Objective-C,304,74374,2801,6,127729,Yes,Business and Economy
+Little Go,https://github.com/herzbube/littlego,104,Objective-C,430,43154,1336,1,20091,Yes,Games
+Longboxed*,https://github.com/jayhickey/Longboxed-iOS,63,Objective-C,145,10957,598,2,33648,No,Utilities
+Megabite,https://github.com/AaronRandall/Megabite,47,Objective-C,208,40245,102,2,42258,No,Photo and Video
+Mumble,https://github.com/mumble-voip/mumble-iphoneos,116,Objective-C,2374,605060,666,3,12673,No,Games
+OnionBrowser,https://github.com/OnionBrowser/OnionBrowser,58,Objective-C,123,10765,510,5,39721,Yes,Utilities
+ParkenDD,https://github.com/kiliankoe/ParkenDD,56,Swift,34,1597,536,3,37790,Yes,Utilities
+Poppins,https://github.com/thoughtbot/poppins,58,Objective-C,132,2888,134,2,16759,No,Photo and Video
+Quick Chat,https://github.com/aslanyanhaik/Quick-Chat,37,Swift,239,25409,83,3,111068,No,Social Networking
+Rocket.Chat*,https://github.com/RocketChat/Rocket.Chat.iOS,49,Swift,758,38780,5890,48,79508,Yes,Business and Economy
+The Oakland Post*,https://github.com/aclissold/the-oakland-post,63,Objective-C,208,13924,286,1,152374,No,News and Magazines
+Trust Wallet,https://github.com/TrustWallet/trust-wallet-ios,24,Swift,522,23945,2268,29,13268,Yes,Business and Economy
+Twidere*,https://github.com/TwidereProject/Twidere-iOS/,40,Swift,224,11559,189,2,1459,No,Social Networking
+V2EX,https://github.com/singro/v2ex,66,Objective-C,311,25172,140,9,21903,Yes,Social Networking
+Wikipedia,https://github.com/wikimedia/wikipedia-ios,71,Objective-C,1412,102237,23326,63,560851,Yes,Books and Reference
+WordPress,https://github.com/wordpress-mobile/WordPress-iOS,134,Swift,1664,153219,36294,87,447403,Yes,Productivity
+Yep,https://github.com/CatchChat/Yep,54,Swift,579,50374,7288,13,52598,No,Social Networking

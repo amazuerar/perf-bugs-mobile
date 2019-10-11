@@ -1,0 +1,501 @@
+﻿OS,assigned_tag_high_level,url
+android,Connection-related,https://github.com/kontalk/androidclient/commit/2904c2f13a76868c29f78333107199fb5919e3b4
+android,Connection-related,https://github.com/k9mail/k-9//commit/453406a5a52666d5b2ac0c165480c25ad14409a2
+android,Connection-related,https://github.com/tasks/tasks/commit/4e8501792157b9092f884042041cbd3051d47e7e
+android,Connection-related,https://github.com/cgeo/cgeo/commit/e27d70eba9e22b066735ede0887c1b7caafeabfd
+android,Connection-related,https://github.com/Evisceration/DeviceControl/commit/ea1dbd2dcd73abe8516a445b9c5b58ba4a8a77dd
+android,Connection-related,https://github.com/brave/browser-android/commit/4a5b0e1dbd753dabeda80ea63e68bfc1b7d1b9d5
+android,DB-related,https://github.com/wordpress-mobile/WordPress-Android/commit/5589be4748a35fe994d8d5021935397879b27001
+android,DB-related,https://github.com/k9mail/k-9//commit/a1302afe75242fe2d1dee1a87f7688b02b1f641e
+android,DB-related,https://github.com/SimpleMobileTools/Simple-Calendar/commit/1f9a21008afd329d6423a85b2db7e054f9dfccf6
+android,DB-related,https://github.com/tomahawk-player/tomahawk-android/commit/d3f5ec2802933e31ebcdd43edd8e515056eea3e2
+android,GUI-related,https://github.com/bitcoin-wallet/bitcoin-wallet/commit/df4bd6706c299fa589cd7804b4f6d878044c868a
+android,GUI-related,https://github.com/geometer/FBReaderJ/commit/f495c2e42d588705926849b913abed8762b2b1db
+android,GUI-related,https://github.com/WhisperSystems/Signal-Android/commit/05e45e92cf7c3babae7efe2ca86f91136c48595a
+android,GUI-related,https://github.com/tomahawk-player/tomahawk-android/commit/f7a9fb512fe50d2bec9154b73b89e2ce7baed5ad
+android,GUI-related,https://github.com/antennapod/AntennaPod/commit/85ace6fb0180940450075990b35bbff6edf52184
+android,GUI-related,https://github.com/tomahawk-player/tomahawk-android/commit/dc900893ee7653bbb2cb14d0c10f9fd498775401
+android,GUI-related,https://github.com/BennyKok/OpenLauncher/commit/0ab48bfe8fdd4d1baba6ceba4e760753fbb0bba4
+android,GUI-related,https://github.com/cgeo/cgeo/commit/8b5b62ee21ea1f84fc372fbba6197b46818ea8c0
+android,GUI-related,https://github.com/bitcoin-wallet/bitcoin-wallet/commit/26bfc105048cc3095f73686ce699e4eea6b7c1b0
+android,GUI-related,https://github.com/SimpleMobileTools/Simple-Camera/commit/44fb913b0e78eb6b9d802810d860fc65b03b0031
+android,GUI-related,https://github.com/antennapod/AntennaPod/commit/0eab73d85bf29df0ee7d161d370e55ddea392350
+android,GUI-related,https://github.com/federicoiosue/Omni-Notes/commit/448ad10b5b61445f1f413a88d13759321385c27a
+android,GUI-related,https://github.com/owncloud/android/commit/020d2885ce5f923870ff3aed02db98d6e9eb2a48
+android,GUI-related,https://github.com/ukanth/afwall/commit/1884579c3ecea7abf49c4e76a785dcbb04e83a55
+android,GUI-related,https://github.com/raatmarien/red-moon/commit/1c9b7f609f689f0f7edfe3d47ab43d7b51c28e3d
+android,GUI-related,https://github.com/ccrama/Slide/commit/06868961af0a18b6b9acf55a38bc0987637359e0
+android,GUI-related,https://github.com/federicoiosue/Omni-Notes/commit/44964efe027ca0ba690a9ef46c85dd57e3e04041
+android,GUI-related,https://github.com/cgeo/cgeo/commit/0ffc68892d75a9d6570354d0f04b0cfda7d978cd
+android,GUI-related,https://github.com/duckduckgo/android/commit/5f1c1005c8e65bf945efd07ab1c9197b2546ed1d
+android,GUI-related,https://github.com/ccrama/Slide/commit/d5c07e8db0d9c19532d760481da690d532898965
+android,GUI-related,https://github.com/WhisperSystems/Signal-Android/commit/b860aeff85dc59bddd3b7bb263f466e69b332049
+android,GUI-related,https://github.com/geometer/FBReaderJ/commit/0b97ef54f44d6f41477af73331a56e1ef36993c0
+android,GUI-related,https://github.com/automattic/simplenote-android/commit/bab4f734206577f1f4218d480cca573382cbd12c
+android,GUI-related,https://github.com/wordpress-mobile/WordPress-Android/commit/293dc61fde1ade0884ad460df3074fd5bc2e92e9
+android,GUI-related,https://github.com/k9mail/k-9//commit/6334ae05ccabd3213bd0ca55a382c3c0cd40d1bb
+android,GUI-related,https://github.com/k9mail/k-9//commit/6d86fb3b16f9911d7bb7d17a1655059a2d30d2c7
+android,GUI-related,https://github.com/QuantumBadger/RedReader/commit/e457e9e1818f51ecfab56ce0dba03108d15c68b0
+android,GUI-related,https://github.com/ccrama/Slide/commit/cfafc1681d3b47d1b3ad379fd9c49102d3f8da5d
+android,GUI-related,https://github.com/geometer/FBReaderJ/commit/7fe4e096e1298c49dc3b487a9b0145ff54ac056b
+android,GUI-related,https://github.com/anthonycr/Lightning-Browser/commit/97a64401e865df198669b384daf10ed7f71c3b14
+android,GUI-related,https://github.com/automattic/simplenote-android/commit/bb9beec3887f8da06778bbd4cdfd47d77d0ddef0
+android,GUI-related,https://github.com/brave/browser-android/commit/9e3726eb1807fe384b0c3ba6c1ad1fae7cdf2945
+android,GUI-related,https://github.com/QuantumBadger/RedReader/commit/5f78086cb40d6d3eae020c5a4082c23f7b2965a1
+android,Performance bad practices,https://github.com/k9mail/k-9//commit/7cb6fa102f1e21b7161ccd67c66b7188c9afba56
+android,Performance bad practices,https://github.com/raatmarien/red-moon/commit/3c9a473cac60de154d1246c89027181621e23c3b
+android,Performance bad practices,https://github.com/wordpress-mobile/WordPress-Android/commit/5db9800c49a5df7ce790be683a370ad0cbd81969
+android,Performance bad practices,https://github.com/osmandapp/Osmand/commit/daa3deb00f2b7db70208794d290d04e9cc1982e2
+android,Performance bad practices,https://github.com/breadwallet/breadwallet/commit/c9a7aaa1ce6d3df570c4a5203943514abb7dd1f5
+android,Performance bad practices,https://github.com/naman14/Timber/commit/f6c41b9b9da7c3e6b9667b04b0b946955944e4c0
+android,Performance bad practices,https://github.com/k9mail/k-9//commit/647dc827d892b260ec2e3ceee7c9c4a1d51bfcca
+android,Performance bad practices,https://github.com/kontalk/androidclient/commit/878a320e5c768b88e8616ef51008fae487b34c69
+android,Performance bad practices,https://github.com/geometer/FBReaderJ/commit/d2ad7deeca1810dce72cef4c476b243fd810c592
+android,Performance bad practices,https://github.com/Evisceration/DeviceControl/commit/19aebef476e23b54626b389352ab61ef83ab07e4
+android,Performance bad practices,https://github.com/Evisceration/DeviceControl/commit/21675b24c370052e011316853380f01fa5244598
+android,Performance bad practices,https://github.com/arpitkh96/AmazeFileManager/commit/9e51961906ff5b762816bfde52891e1bbb0ae111
+android,Performance bad practices,https://github.com/tasks/tasks/commit/8a247fce08f8fa3efbbf9db174ed3354f2535e5d
+android,Performance bad practices,https://github.com/tomahawk-player/tomahawk-android/commit/a2c08b477901511e9e86544d193857641fac28c1
+android,Performance bad practices,https://github.com/wordpress-mobile/WordPress-Android/commit/941cb8acbf0da21779812e67583e76fa351ad3f6
+android,Performance bad practices,https://github.com/open-keychain/open-keychain/commit/b1ea1261425e05d7eaa803e6ea72c1f0bbb5ae32
+android,Performance bad practices,https://github.com/owncloud/android/commit/d4f8391f509b4b211d6742db6db546b80e8277c7
+android,Performance bad practices,https://github.com/k9mail/k-9//commit/f2fa5ae2f6cf198e74507885d114c903e5f052dc
+android,Performance bad practices,https://github.com/k9mail/k-9//commit/852e51328165163b794a5a16d11c2de0b1c4f9d7
+android,Performance bad practices,https://github.com/geometer/FBReaderJ/commit/a1b19524a47b7c2f6ab2d634bf1b94e84946ea50
+android,Performance bad practices,https://github.com/geometer/FBReaderJ/commit/d68eebf52ff98982b4d88c4c832d6654d30397b5
+android,Performance bad practices,https://github.com/antennapod/AntennaPod/commit/889ae22f01b509412051611d3bbc4d1e6f78d793
+android,Performance bad practices,https://github.com/wordpress-mobile/WordPress-Android/commit/58273a412443756e82bc4fb7f552277d0118495e
+android,Performance bad practices,https://github.com/QuantumBadger/RedReader/commit/a56f486cc2f597ea809b7c390d8d71ecbf65a3f9
+android,Performance bad practices,https://github.com/geometer/FBReaderJ/commit/2e5c911d43a0e2f9caac2ba5fe12437ddd25dc1c
+android,Performance bad practices,https://github.com/Evisceration/DeviceControl/commit/19557e7df3dccc5af75db959e513abb81a94d1a6
+android,Performance bad practices,https://github.com/geometer/FBReaderJ/commit/ef496356948f39efdb18dbff92ef8d9df6978932
+android,Performance bad practices,https://github.com/geometer/FBReaderJ/commit/373e4fab28de5aae2b977e65825ab0e56d1eaeb3
+android,Performance bad practices,https://github.com/geometer/FBReaderJ/commit/b87957fa81e154c75e5559259be89da1843b550e
+android,Performance bad practices,https://github.com/geometer/FBReaderJ/commit/177343e5b37193aeea7cdd77e4ec9b015b8283bc
+android,Performance bad practices,https://github.com/eolwral/OSMonitor/commit/ee1014114cf5adfb7071d0a8d25ed72f8c518644
+android,Performance bad practices,https://github.com/Evisceration/DeviceControl/commit/07976faa2d7b6ae5de24222525637ebc5df3134c
+android,Performance bad practices,https://github.com/cgeo/cgeo/commit/1dda3fc6fcd2711f21fff8e28204757fa99f9861
+android,Performance bad practices,https://github.com/geometer/FBReaderJ/commit/ab72a293dfd64af44bca93072bb39ec7bc7df9c1
+android,Performance bad practices,https://github.com/geometer/FBReaderJ/commit/d46f4389b2b3b22fe9f86cd10bca7aacb71c118e
+android,Performance bad practices,https://github.com/tomahawk-player/tomahawk-android/commit/46d5359b334555c3e71028292dbb6742a785fb64
+android,Performance bad practices,https://github.com/federicoiosue/Omni-Notes/commit/a7494b53c751f20d369a8b43c7e094e7bd52a4dc
+android,Performance bad practices,https://github.com/cgeo/cgeo/commit/6dc5843c5a1dcac7fd5c595ff9d42c734258a3b3
+android,Performance bad practices,https://github.com/geometer/FBReaderJ/commit/c765fa9b5ea859c147a025d4ecf6adec021e030e
+android,Performance bad practices,https://github.com/geometer/FBReaderJ/commit/646cf02c84b29f035edceabb5b8c3bfa397b3d56
+android,Performance bad practices,https://github.com/tasks/tasks/commit/89de6e9fdeaca1eef99f3b256222950503aa0973
+android,Performance bad practices,https://github.com/wordpress-mobile/WordPress-Android/commit/c5beb919b9b0392a61c2bd4254fe6213be722792
+android,Performance bad practices,https://github.com/wordpress-mobile/WordPress-Android/commit/fa0603e5aea1abb40e1b3d3e04c406af387a3f6b
+android,Performance bad practices,https://github.com/osmandapp/Osmand/commit/050a0039573c63393678be3d9fff3f8fa780f36d
+android,Performance bad practices,https://github.com/geometer/FBReaderJ/commit/e0372da635b46e31a30afe46ca721ac736d52a16
+android,Performance bad practices,https://github.com/geometer/FBReaderJ/commit/aef86442f38fd3b5229b32c893a34759abd4aee3
+android,Performance bad practices,https://github.com/xsoh/Etar-Calendar/commit/387f044ddbe71328e4883559a0256fd3c58048b4
+android,Resource leak,https://github.com/Tasssadar/MultiROMMgr/commit/f1133d3eb04d1b0da458d1cb9af1b60912e352a8
+android,Resource leak,https://github.com/geometer/FBReaderJ/commit/b90c9cdf5f653728ae5822b262e54665d8c34952
+android,Resource leak,https://github.com/WhisperSystems/Signal-Android/commit/9b495d8c836cc4981cd0754876dbbbaadbdd64d8
+android,Resource leak,https://github.com/xsoh/Etar-Calendar/commit/f218580c81b5880da2446736330acd0680d29edf
+android,Resource leak,https://github.com/erdemorman/mdx/commit/e062209ab8dc1043f61706793d0e301d919e0640
+android,Resource leak,https://github.com/connectbot/connectbot//commit/540c693d2c0fdd10426468de6b66982d02a3ec91
+android,Resource leak,https://github.com/SimpleMobileTools/Simple-Calendar/commit/33d9f02cc7c96d230232444237b93b3b84281495
+android,Resource leak,https://github.com/federicoiosue/Omni-Notes/commit/ac369d4a11389b85ca5d20403aa43e47979a0070
+android,Resource leak,https://github.com/owncloud/android/commit/8db0692daf94db68e08d765dcc3e57f0de638d28
+android,Resource leak,https://github.com/geometer/FBReaderJ/commit/d0bb36e188ddb236d1b0a9d67996647179a1091b
+android,Resource leak,https://github.com/geometer/FBReaderJ/commit/d5a702052f8528a83a9b829eec2360cc7000a47b
+android,Resource leak,https://github.com/geometer/FBReaderJ/commit/3f956fbc516f0d6378ee80a56b40e617752b03d7
+android,Resource leak,https://github.com/cgeo/cgeo/commit/8ef2b129d9f01487ab35a99537817ab1bdbf9db6
+android,Resource leak,https://github.com/cgeo/cgeo/commit/821a9a1513e7a1573411e84ae3533d53d4ca3936
+android,Resource leak,https://github.com/geometer/FBReaderJ/commit/b1d8196975e7c0dbc52861ce09185773f4f6e72d
+android,Resource leak,https://github.com/geometer/FBReaderJ/commit/bcba8c9541a31117e282f84da1f40b105d8463e1
+android,Resource leak,https://github.com/geometer/FBReaderJ/commit/4e59beb0e9e8b25237c83f909ab3b33159ae768d
+android,Resource leak,https://github.com/asksven/BetterBatteryStats/commit/a4374c0922ccd148bae16cbf75a403d5aae6fb92
+android,Resource leak ,https://github.com/WhisperSystems/Signal-Android/commit/3bac3c62632da246ee1a82d329d8ae5bf37b629e
+android,Resource leak ,https://github.com/cgeo/cgeo/commit/fd2a02a84b2a7e62ec45f31f6979f50c5bed5116
+android,Resource leak ,https://github.com/osmandapp/Osmand/commit/376bc2217bb4c38809981fdcd3e8353a06d4c281
+android,Resource leak ,https://github.com/Tasssadar/MultiROMMgr/commit/915508233ce1e7eeb6269957f443fd57618d2e54
+android,Resource leak ,https://github.com/osmandapp/Osmand/commit/cc10aefa53632a549462be30e054a4abd8fc4795
+android,Resource leak ,https://github.com/tomahawk-player/tomahawk-android/commit/a29bd01e1f4f00abcfa823c73a45c4e6ee4cdec6
+android,Resource leak ,https://github.com/anthonycr/Lightning-Browser/commit/cb19ce2d0ad6a4e0b0df184238d289107dad5fae
+android,Resource leak ,https://github.com/osmandapp/Osmand/commit/59e6701969dcfdfdc1a2c1eb6cc332c0e8eb5b04
+android,Resource leak ,https://github.com/xsoh/Etar-Calendar/commit/89af189b563a511275f9c65ab9a85b06c66e88b5
+android,Resource leak ,https://github.com/xsoh/Etar-Calendar/commit/56626e2ef86a471f57af8abe713d36e4c7903294
+android,Resource leak ,https://github.com/antennapod/AntennaPod/commit/af30f4f9d29de2857e2a4973f206600a03311208
+android,Resource leak ,https://github.com/xsoh/Etar-Calendar/commit/c1e4290b8277c418571d5626dd2da642eaa8e572
+android,Resource leak ,https://github.com/cgeo/cgeo/commit/1a8ce016a2aa0956e7d6c35a24e0c4bf9b91e6e9
+android,Resource leak ,https://github.com/anthonycr/Lightning-Browser/commit/8132b34bbf67cf224f254dfb313ee621a52997b4
+android,Resource leak ,https://github.com/xsoh/Etar-Calendar/commit/f26ea9324d6d807b35ce68d89134ebb66c88706c
+android,Resource leak ,https://github.com/ukanth/afwall/commit/b4dd05d798067d340aba71830ff6eea5fae37636
+android,Resource leak ,https://github.com/osmandapp/Osmand/commit/6d9567fd98b13ad75ce85e88854135003ec296a5
+android,Resource leak ,https://github.com/xsoh/Etar-Calendar/commit/0f003a04ab0bd70124873bb301ba42da767be466
+android,Resource leak ,https://github.com/xsoh/Etar-Calendar/commit/4642b913a06bdc76061ebb4ee4fe2a26b0171e09
+android,Resource leak ,https://github.com/xsoh/Etar-Calendar/commit/1c90bad8385f481b754e66e80bb415b31f7bdfc6
+android,Resource leak ,https://github.com/ccrama/Slide/commit/a2818a577fb3c5205349e59b54b906a705eeb38c
+android,Resource leak ,https://github.com/TheAndroidMaster/Status/commit/80afbd60e903aff0d29c5aa9362f689768467146
+android,Resource leak ,https://github.com/brave/browser-android/commit/40a064b39d4c198d04e1b22c72421c6efd2f94a4
+android,Resource leak ,https://github.com/anthonycr/Lightning-Browser/commit/ee52e00c83907dacb5201351a829150b980ae46c
+android,Resource leak ,https://github.com/anthonycr/Lightning-Browser/commit/7aaf6d17714b58a0f604574bf7a576c76d0f1c1a
+android,Resource leak ,https://github.com/Evisceration/DeviceControl/commit/1b8de764659f29f181048370d743164b49aff875
+android,Resource leak ,https://github.com/k9mail/k-9//commit/ce6f080e839b97b2913848d03aa5406f957722f1
+android,Resource leak ,https://github.com/mapbox/mapbox-android-demo/commit/298ad89b33dac84b48f8f2dbfd0fd33b33a0b063
+android,Resource leak ,https://github.com/Kennyc1012/Opengur/commit/759bf90763d28ed9dd9b989246949a206e5da65e
+android,Resource leak ,https://github.com/cgeo/cgeo/commit/ccb34a3271cf4fe2be23e57829df84efa307062b
+android,Resource leak ,https://github.com/cgeo/cgeo/commit/1bdd50e6a54553264d80e4044b3b5405eb7469d4
+android,Resource leak ,https://github.com/cgeo/cgeo/commit/d6da09c7793cd1aa62a9c37912fbe8a2471c78bf
+android,Resource leak ,https://github.com/cgeo/cgeo/commit/837b8ccf4184cac792eb225b28a6e9c557c935df
+android,Resource leak ,https://github.com/cgeo/cgeo/commit/6891e9f55b5e10792dc5de0259ed1b7dddad0969
+android,Resource leak ,https://github.com/cgeo/cgeo/commit/9b5502013ea9e3d9d1e48e43a0fba11eb7a3c6bb
+android,Resource leak ,https://github.com/owncloud/android/commit/c69c1e7ac56e0df9168e5a4c340069c3c5be6c2d
+android,Resource leak ,https://github.com/geometer/FBReaderJ/commit/0268ebfe47ae593b86da85de32489f569f63af96
+android,Resource leak ,https://github.com/Evisceration/DeviceControl/commit/f4e4a80e04fe0de25a7a66b690740e0f9cba67dc
+android,Resource leak ,https://github.com/brave/browser-android/commit/f489a36e2192b77c1e190291bc4b4bc2fd2cb0ba
+android,Resource leak ,https://github.com/antennapod/AntennaPod/commit/a3fcd5efe16c411268024a2306438db4321b5167
+android,Resource leak ,https://github.com/siacs/Conversations/commit/f5019ba96647bd1c33153e6e9099d21dcf47bfa7
+android,Resource leak ,https://github.com/tomahawk-player/tomahawk-android/commit/7fb8975fc77dca8dd6d9508ed343fd6b823ad809
+android,Resource leak ,https://github.com/SilenceIM/Silence/commit/3cc6344c8b8e8e4baf723c8399a901f6d891ac13
+android,Resource leak ,https://github.com/geometer/FBReaderJ/commit/00117fb6768bcc54917b0b4eeb8b4743728a5362
+android,Resource leak ,https://github.com/jackpal/Android-Terminal-Emulator/commit/86b70e1a9ae87db2b483e1461d48407e96aebf35
+android,Resource leak ,https://github.com/cgeo/cgeo/commit/baa14454350d38264906c7433a32056cd880055c
+android,Resource leak ,https://github.com/antennapod/AntennaPod/commit/a66580bfc62630076abbcb25674016d1f930d6dc
+android,Resource leak ,https://github.com/cgeo/cgeo/commit/5d9f40a57a083acf8e7c8d501f202f490b41cf72
+android,Resource leak ,https://github.com/jonasoreland/runnerup/commit/b2d2fcad2569f6e6b16c58b898007a270c0eba3a
+android,Resource leak ,https://github.com/eolwral/OSMonitor/commit/964e27cd8bf51a7e8b20a32c8f41183d6ddae97b
+android,Resource leak ,https://github.com/xsoh/Etar-Calendar/commit/2dd566a8b0a3a69cefe61bcad5e3be4d72bfaa06
+android,Resource leak ,https://github.com/cgeo/cgeo/commit/ab7740274e76ee7b5b1dc9217735b7ad5357e269
+android,Resource leak ,https://github.com/bitcoin-wallet/bitcoin-wallet/commit/06b9048809443aeeb2e4a5e7fa7945e70f3197f8
+android,Resource leak ,https://github.com/bitcoin-wallet/bitcoin-wallet/commit/6d6ce57a4bed1eee7a502de959d69656081684a7
+android,Resource leak ,https://github.com/cgeo/cgeo/commit/8664f231f74cff144c8e605614978cc3f0ab81e5
+android,Resource leak ,https://github.com/cgeo/cgeo/commit/1e983fc9c4cb324d8a541eaee81a0c8f6802152c
+android,Resource leak ,https://github.com/brave/browser-android/commit/4b89a118e366a4820a7047275d67c26191007e3d
+android,Resource leak ,https://github.com/geometer/FBReaderJ/commit/b5ca143a942cf6fbd17d656d95aa179784c3fc02
+android,Resource leak ,https://github.com/k9mail/k-9//commit/f1d413ce77ab9c656ca391e8553b64535b2f9572
+android,Resource leak ,https://github.com/SimpleMobileTools/Simple-Calendar/commit/c44abf295787de4f3e28e6ed9799ac68c365033e
+android,Resource leak ,https://github.com/k9mail/k-9//commit/d3cc1fdfdc05109fb38a0fd84589dd8b5de47059
+android,Resource leak ,https://github.com/brave/browser-android/commit/5e9f0ccb3880a12ae50e1f299bade587f313a8b1
+android,Resource leak ,https://github.com/Evisceration/DeviceControl/commit/f67713df48629b1fc4854b49beb379f1ea37e68b
+android,Resource leak ,https://github.com/xsoh/Etar-Calendar/commit/c1eeadee6db734fce8a50cdfa181a723fe82422a
+android,Resource leak ,https://github.com/WhisperSystems/Signal-Android/commit/567224b4a6c7dd2d29cbf4f2a15dd44454ace21a
+android,Resource leak ,https://github.com/WhisperSystems/Signal-Android/commit/77e846d24e27dcae41d64bf776d44be59a58d927
+android,Resource leak ,https://github.com/DrKLO/Telegram/commit/644fc7ccea9deee3686dc9c824893baa4ce4bef6
+android,Resource leak ,https://github.com/osmandapp/Osmand/commit/59c8b5d39cf2c0361d6f688d75e19f2786a4cbae
+android,Resource leak ,https://github.com/k9mail/k-9//commit/91ad70cd5d646fea8cdd47a334d9533c044779a9
+android,Resource leak ,https://github.com/ukanth/afwall/commit/9783956e1a5b185d235e319d059650b68368ae95
+android,Resource leak ,https://github.com/cgeo/cgeo/commit/07551b71d28d9ed9531b29e3d70c0e39d9f912fe
+android,Resource leak ,https://github.com/vector-im/riot-android/commit/2b0b7d95ef0c2feefec9058e81d5a4f692ef5146
+android,Resource leak ,https://github.com/wordpress-mobile/WordPress-Android/commit/12c53f0ffb0a7f314d90800b9c4ea35e43b6f43d
+android,Resource leak ,https://github.com/tomahawk-player/tomahawk-android/commit/8816d1cceb962da1cef9ac51cd7cdbd6925de110
+android,Resource leak ,https://github.com/SimpleMobileTools/Simple-Calendar/commit/69fe41829ee630639d9cced810b5ea960dd9f82f
+android,Resource leak ,https://github.com/SimpleMobileTools/Simple-Camera/commit/b94d7305eafc43a7174ca73b8905c2b0239061bf
+android,Resource leak ,https://github.com/Kennyc1012/Opengur/commit/0c291e7b97a3a06f02db244ac0005e41c3aa3155
+android,Resource leak ,https://github.com/wireapp/wire-android/commit/e3f049e881a7eae38cbdec12dbe2b7ca0bcc3156
+android,Unclear,https://github.com/geometer/FBReaderJ/commit/202f0a4a47f7e757e74a0b8c39e3028f434fe951
+android,Unclear,https://github.com/eolwral/OSMonitor/commit/5c1070071118ec620ac79d1c3042bc01d06b8f63
+android,Unclear,https://github.com/geometer/FBReaderJ/commit/ff3ea908215a8298e55902c4a67f8d8345f816a1
+android,Unclear,https://github.com/geometer/FBReaderJ/commit/c8b0fe0569e15484bc760eda42ac85bd8b64cc8f
+android,Unclear,https://github.com/wordpress-mobile/WordPress-Android/commit/a8c33b6f65c150ec2f6beca3b412e61eac023029
+android,Unclear,https://github.com/k9mail/k-9//commit/b7a846492a103590e55f7b11c01c2732e261fb44
+android,Unclear,https://github.com/tasks/tasks/commit/b614a5af3c725a9c225eeb8aa828d5ee2263ae79
+android,Unclear,https://github.com/geometer/FBReaderJ/commit/ed41542d3cdf8d7d2893154f009c30c4fce5a7cd
+android,Unclear,https://github.com/connectbot/connectbot//commit/bfac23d58a1260f61de6c69be4e80b2d85e045ac
+android,Unclear,https://github.com/MirakelX/mirakel-android/commit/774fda074925c89bc84a8acb095ee6fb6378a155
+android,Unclear,https://github.com/duckduckgo/android/commit/47570f5d846459634312b1ca9d3133e42f96ed77
+android,Unclear,https://github.com/geometer/FBReaderJ/commit/8531c44dc5a1f84d9f7b1b1dd95b4b26917de24e
+android,Unclear,https://github.com/cgeo/cgeo/commit/6630ac7b85b2726df247c9fefa120e35e79dcd24
+android,Unclear,https://github.com/geometer/FBReaderJ/commit/216b946acf98fe0d6727f43ff85a0407f5741688
+android,Unclear,https://github.com/geometer/FBReaderJ/commit/f5d330f1b43946241f1b760f37e64d9796c93cf7
+android,Unclear,https://github.com/mariotaku/twidere/commit/7072321c8e60a634ef39d19e39fd2a00933122a1
+android,Unclear,https://github.com/tasks/tasks/commit/3497e9d84d861fc9083c6b1fe2b57d7e1e6b9e7d
+android,Unclear,https://github.com/ukanth/afwall/commit/ef6c28e1f472d0f0b48e0d539b5c9e59128ab5cc
+android,Unclear,https://github.com/WhisperSystems/Signal-Android/commit/7a023b9fdcce34f2d03bb3e1934f7416c2f5d6aa
+android,Unclear,https://github.com/theScrabi/NewPipe/commit/33e332f10562f3e37ee75b3daecad44c69ea9466
+android,Unclear,https://github.com/Evisceration/DeviceControl/commit/db56b32af432f8106de1cf5c13733da8adcabff7
+android,Unclear,https://github.com/Antox/Antox/commit/a0b9c5c32507e4b91db478edb98504793c58cc6a
+android,Unclear,https://github.com/wordpress-mobile/WordPress-Android/commit/65df0ee33617e90b35d3e098168e38f46e1adc55
+android,Unclear,https://github.com/MirakelX/mirakel-android/commit/9eeeba580f9e72e222ecf9c80356c660286a0c31
+android,Unclear,https://github.com/geometer/FBReaderJ/commit/b0c7cd6ad9b91319d90c575383dae0b304f1ce75
+android,Unclear,https://github.com/anthonycr/Lightning-Browser/commit/f70d889c03fba8f86c67a0bc2963145d2687fb99
+android,Unclear,https://github.com/Antox/Antox/commit/c8d98a5933de97dedc7e2ed55e726ca4da39f8af
+android,Unclear,https://github.com/tomahawk-player/tomahawk-android/commit/69c2c2f7b7ebdb114c9a011ae41a0c18fc019d7b
+android,Unclear,https://github.com/antennapod/AntennaPod/commit/f08f5f8d8f3e87efd9f7072ef272dccfd2e69b5e
+android,Unclear,https://github.com/ukanth/afwall/commit/8c1f2d218f6d5fbe1a730260378a1130b3cccc7e
+android,Unclear,https://github.com/k9mail/k-9//commit/1945dc4ad4789935817a3572a7a5edfd447c6603
+android,Unclear,https://github.com/mariotaku/twidere/commit/b3e19e6b768eea0d8549b6a6d852324230f6aeef
+android,Unclear,https://github.com/arpitkh96/AmazeFileManager/commit/0575aa689b02de5a657a84ae863ae9d9fdc902d5
+android,Unclear,https://github.com/tasks/tasks/commit/360445034a35372296dd0bf17ea28dd32b453bc3
+android,Unclear,https://github.com/ukanth/afwall/commit/79f6b8956ddc5fb5e4c76a83562cb89e123c8be2
+android,Unclear,https://github.com/wordpress-mobile/WordPress-Android/commit/496a8bcdbe6254fb7ca1a2d4eb1c6fe0939ae30f
+android,Unclear,https://github.com/geometer/FBReaderJ/commit/188160e021008467789a878febe3bb20c9208a8c
+android,Unclear,https://github.com/ccrama/Slide/commit/5b35e8da2e4721056283242b81a5416ed12c23e2
+android,Unclear,https://github.com/wordpress-mobile/WordPress-Android/commit/963357343d7157552e4e58bf1a955d7f8a78df97
+android,Unclear,https://github.com/ukanth/afwall/commit/5dcf978279660cd58a4071614cb319961a744c67
+android,Unclear,https://github.com/tomahawk-player/tomahawk-android/commit/09855d0b0eb4fe7fedc487445f0acf254be4249b
+android,Unclear,https://github.com/osmandapp/Osmand/commit/b652687d3740387842f0daa5c5993defe7887161
+android,Unclear,https://github.com/geometer/FBReaderJ/commit/b63da852779d83d3885617211abac75427535912
+android,Unclear,https://github.com/siacs/Conversations/commit/c296d6f4466e2616432660bb01465f3746e1bb65
+android,Unclear,https://github.com/MirakelX/mirakel-android/commit/ad5370672e8c7f548e4212f1d215e9fe8439d584
+android,Unclear,https://github.com/tomahawk-player/tomahawk-android/commit/aa5cb64617a052b32b3c931400ff388c5da9d9c5
+android,Unclear,https://github.com/geometer/FBReaderJ/commit/c9d36a528f5e54f66c2790d18eff265f865ab519
+android,Unclear,https://github.com/federicoiosue/Omni-Notes/commit/9dd03fba58e9d577258ecbf37016228a9802824e
+android,Unclear,https://github.com/k9mail/k-9//commit/97a4f97b648bfc2d096c3daecd3877bc07059f83
+android,Unclear,https://github.com/wordpress-mobile/WordPress-Android/commit/ddcd63c50468849ea09e72430aaf437cdf549186
+android,Unclear,https://github.com/osmandapp/Osmand/commit/42483aad802759b5de97c5501afa74773dae84d4
+android,Unclear,https://github.com/tomahawk-player/tomahawk-android/commit/d6e800918d7f90a11619cc060548857789f145b8
+android,Unclear,https://github.com/geometer/FBReaderJ/commit/08e5233f68cc1221d833e5533b7a08d3fe93a44e
+android,Unclear,https://github.com/kontalk/androidclient/commit/635fe11ccb7acfe6e780481808eb4997e4aaa35f
+android,Unclear,https://github.com/TheAndroidMaster/Status/commit/d53520a9c5a045847dbf5494c5cde08eb6d41d29
+android,Unclear,https://github.com/syncthing/syncthing/commit/e1f1ae041f1792ff05c7bbe8692929601d6257cd
+android,Unclear,https://github.com/Antox/Antox/commit/3d5b158cc5c3f5b7e0f4d6527cdf86877134bf56
+android,Unclear,https://github.com/kontalk/androidclient/commit/8bfc4d7aa88b62ea67835e314455f4ee95beb868
+android,Unclear,https://github.com/WhisperSystems/Signal-Android/commit/ac4db414355bb601d2ac746d7073485c6ad6d83c
+android,Unclear,https://github.com/siacs/Conversations/commit/94ab61d5c0b060e2aea5caf58ac06864f980956b
+android,Unclear,https://github.com/DrKLO/Telegram/commit/d29eabd16359a4433c37216ea251a7f8fb3c398a
+android,Unclear,https://github.com/k9mail/k-9//commit/02e41e6da0f1df1cacd2432744a1627937d94b5c
+android,Unclear,https://github.com/tasks/tasks/commit/1746ec4e9fe320b7b39109f83b0c076c521ff76b
+android,Unclear,https://github.com/osmandapp/Osmand/commit/4474c9421a4ea271bec4c88e82a91025e474404b
+ios,Connection-related,https://github.com/irccloud/ios/commit/14a4dc8992e88f8ba53fcd4916dbdfeaa859709b
+ios,Connection-related,https://github.com/colloquy/colloquy/commit/e108c881a2814ae107aaaee03b50631461340405
+ios,Connection-related,https://github.com/colloquy/colloquy/commit/6fca5a6d908af7502554b55cc7d803acd9c33979
+ios,Connection-related,https://github.com/colloquy/colloquy/commit/aab29fa942ef2b4f686d58eaadb7dd287ff819b1
+ios,GUI-related,https://github.com/CatchChat/Yep/commit/2ce077501878d9aab6070613c6a45f6915537fae
+ios,GUI-related,https://github.com/wikimedia/wikipedia-ios/commit/5dcda406173476e9d91678b8bf4506b103462e13
+ios,GUI-related,https://github.com/MengTo/DesignerNewsApp/commit/74c975b16b0d250962646157d22e780ce072b5ac
+ios,GUI-related,https://github.com/singro/v2ex/commit/77cb19f5be47db17ec4fba2bfe769b840b7b2ead
+ios,GUI-related,https://github.com/mozilla-mobile/firefox-ios/commit/e03050c5df7be3b6d0bbbea5c90420d467dcc720
+ios,GUI-related,https://github.com/mozilla-mobile/firefox-ios/commit/d58121aa730f40a8a1330cb546104d3ae1225440
+ios,GUI-related,https://github.com/weiran/Hackers/commit/05479b68fb09a2c4204523f7713fbc47ad39149e
+ios,GUI-related,https://github.com/wordpress-mobile/WordPress-iOS/commit/c2b2f3afa9138f7393574fbeb2eb446f1708f34d
+ios,GUI-related,https://github.com/hkalexling/Buck_Tracker/commit/5e6c0f9aa594d32ae798a13180756c951df62c0c
+ios,GUI-related,https://github.com/jayhickey/Longboxed-iOS/commit/ca811c31acdc5c8275ff41e46d46609a60982ed8
+ios,GUI-related,https://github.com/wikimedia/wikipedia-ios/commit/73ebbe9ace490e3d2b742a4047fc651251b46c50
+ios,GUI-related,https://github.com/wordpress-mobile/WordPress-iOS/commit/01cc82306d24c456b9091043d751a5bf33a2f188
+ios,GUI-related,https://github.com/weiran/Hackers/commit/bd0c39171091776d13b1a0277a1e4a6bd7bdea0c
+ios,GUI-related,https://github.com/bonzoq/hniosreader/commit/ac9313c9c3fca75a8d9dbb6d0e3aa2660872891b
+ios,GUI-related,https://github.com/wordpress-mobile/WordPress-iOS/commit/3b227a9579ce081d93b066af1b3041daf3855e00
+ios,GUI-related,https://github.com/wordpress-mobile/WordPress-iOS/commit/a32b6b88f7672f9636a2a9312f2be6c046050dd8
+ios,GUI-related,https://github.com/bonzoq/hniosreader/commit/ac9313c9c3fca75a8d9dbb6d0e3aa2660872891b
+ios,GUI-related,https://github.com/wordpress-mobile/WordPress-iOS/commit/b014fed2c6e807805c99b77bea43dbffeceaf769
+ios,GUI-related,https://github.com/wordpress-mobile/WordPress-iOS/commit/bf4ac8da48e670ae577d768cc7bfb57b971a777d
+ios,GUI-related,https://bitbucket.org/rileytestut/gba4ios//commit/94cba0066206e03003d7c2fc5b6f45ad09109920
+ios,GUI-related,https://github.com/wordpress-mobile/WordPress-iOS/commit/53f1086feadc2789b5564027084c8b802700b352
+ios,GUI-related,https://github.com/MengTo/DesignerNewsApp/commit/cfdbdf93aa644f7f3c460d93252dc598a55b704f
+ios,GUI-related,https://github.com/CatchChat/Yep/commit/ecb6de798957420c4ecd93761fec54e2e4b5430b
+ios,GUI-related,https://github.com/irccloud/ios/commit/dac94641caed10bcfd728a00ced317d853e18a4f
+ios,GUI-related,https://github.com/thoughtbot/poppins/commit/9976858131dfe2cee9c2aaaa2122b16866c7fad4
+ios,GUI-related,https://github.com/mozilla-mobile/firefox-ios/commit/d4477322948f9cc448b7a120498438f7bb78635b
+ios,GUI-related,https://github.com/colloquy/colloquy/commit/51bb874cd2fe3ad39c92d876afd981f4954e7ee9
+ios,GUI-related,https://github.com/artsy/eigen/commit/f87433b24ad8151b7c9e96c5b9dedffa3d3d7f58
+ios,GUI-related,https://github.com/irccloud/ios/commit/74fc9fec382410307e611bfd91b8b85c2366a4d4
+ios,GUI-related,https://github.com/wordpress-mobile/WordPress-iOS/commit/825aa5eec7506e821df39c6723da81ca7d6fb942
+ios,GUI-related,https://github.com/wordpress-mobile/WordPress-iOS/commit/d58933735b490ccc0d22e9acaad96dded4723153
+ios,GUI-related,https://github.com/wordpress-mobile/WordPress-iOS/commit/22a0dc75fa7dd57d9b017698ad11f695d0a73300
+ios,GUI-related,https://github.com/colloquy/colloquy/commit/cc88a3bd928747d218369dea030bd24d1c9b2b5d
+ios,GUI-related,https://github.com/codecombat/codecombat-ios/commit/5c95e4ec4124f04897e2ae592577f1e2f6d44a74
+ios,GUI-related,https://github.com/Lyndir/Gorillas/commit/a778b468769d47f7cad1c824eddc1dfe7d8900f9
+ios,GUI-related,https://github.com/zgrossbart/bridges/commit/9052f8034bd15a605ec703a8207757c6f1e9d57b
+ios,GUI-related,https://github.com/wordpress-mobile/WordPress-iOS/commit/268a3a1e01b9828ac8791f57540454101529cef9
+ios,GUI-related,https://github.com/artsy/eigen/commit/47692687567fbcfaf49217e1660102a31e454741
+ios,GUI-related,https://github.com/wordpress-mobile/WordPress-iOS/commit/ef37cf449ab9d33f8fa489ab7c610f1c3efab5ae
+ios,GUI-related,https://github.com/colloquy/colloquy/commit/1107ced61ef20f65641c0e6985ed72f0e76420ff
+ios,GUI-related,https://github.com/Lyndir/Gorillas/commit/84bd567ba708d2e5ff691a834cf48dedccb14538
+ios,GUI-related,https://github.com/colloquy/colloquy/commit/1365614b3a382acd40c2f3a371e67af985ba9e15
+ios,Performance bad practices,https://github.com/breadwallet/breadwallet/commit/cc1c914b6316e7196916da173936a8478a8cdc04
+ios,Performance bad practices,https://github.com/colloquy/colloquy/commit/9396d9fdd531b64a48ff56498af93f19bb720d81
+ios,Performance bad practices,https://github.com/mozilla-mobile/firefox-ios/commit/2898b981a154850bfd29084b9ffb9621ee32ea40
+ios,Performance bad practices,https://github.com/mozilla-mobile/firefox-ios/commit/60b0863477a5ffdb998e90018bb84f7e2028ddfb
+ios,Performance bad practices,https://github.com/mozilla-mobile/firefox-ios/commit/f9a843273d507869d5d53c06ae236dfa6e1e76d1
+ios,Performance bad practices,https://github.com/mozilla-mobile/firefox-ios/commit/73cfbcc17b21990f30990d0e0fa953bf1a17970e
+ios,Performance bad practices,https://github.com/colloquy/colloquy/commit/0e54db8d5fe692ed6a534fae73f752601a05297e
+ios,Performance bad practices,https://github.com/mozilla-mobile/firefox-ios/commit/8f8b8c10327c39de415962fc54d1704add5c4906
+ios,Performance bad practices,https://github.com/mozilla-mobile/firefox-ios/commit/cb5dc5cf078066a93c6f4d02849277b9b0723a45
+ios,Performance bad practices,https://github.com/mozilla-mobile/firefox-ios/commit/95cdde6bf110e3d0aca30798fa18906039165eac
+ios,Performance bad practices,https://github.com/mozilla-mobile/firefox-ios/commit/98a7bd02c60cb4db2f9e0cdabc7baa7276cf8103
+ios,Performance bad practices,https://github.com/mozilla-mobile/firefox-ios/commit/d5946b5d00d59b0595948a58565052d3bd5f2e7e
+ios,Performance bad practices,https://github.com/mozilla-mobile/firefox-ios/commit/506c32416e0a75a689bcd44f053626f9e15e9151
+ios,Performance bad practices,https://github.com/mozilla-mobile/firefox-ios/commit/3e2438fc62d7c2ef778b8bdd47541c11020a2cfa
+ios,Performance bad practices,https://github.com/herzbube/littlego/commit/efb2e8f21ec346826f193aa3cbad4560d04e35b7
+ios,Performance bad practices,https://github.com/wikimedia/wikipedia-ios/commit/12d1e2a5b8edaa7922dd9addf1829ecd01116a2d
+ios,Performance bad practices,https://github.com/colloquy/colloquy/commit/ccd1572f756a312410336a7684c1a5a768952623
+ios,Performance bad practices,https://github.com/thoughtbot/poppins/commit/6ce0fb104bbc59d452b84a09a2d6a7a674ff1cfd
+ios,Performance bad practices,https://github.com/weiran/Hackers/commit/502d60e58353c9e5284494f873fc0b20b093b425
+ios,Performance bad practices,https://github.com/wordpress-mobile/WordPress-iOS/commit/15ef2cb4b76c3a4c931ad29ce0e15f67ba036c87
+ios,Performance bad practices,https://github.com/colloquy/colloquy/commit/73a3d2d1cfd154cf55b602f8ccc3995b2d5ac15d
+ios,Performance bad practices,https://github.com/colloquy/colloquy/commit/58d2c3d8affe54b227b5afa8fb5b8d2c6af9983c
+ios,Performance bad practices,https://github.com/irccloud/ios/commit/400d9557b224b889dbde3eb69e0d3be76aa78d48
+ios,Performance bad practices,https://github.com/CatchChat/Yep/commit/5970cdc81ea524d4edc692c30f301fe6c0bebb52
+ios,Performance bad practices,https://github.com/irccloud/ios/commit/522af94448495715a3f2d589ff47ee4a8cdd97f2
+ios,Performance bad practices,https://github.com/colloquy/colloquy/commit/2753c2e67d0931dc61baccd3957dec3be85764c3
+ios,Performance bad practices,https://github.com/singro/v2ex/commit/cd7f31eaf1070840e8c6cfd8ce036e30f07ee158
+ios,Performance bad practices,https://github.com/wordpress-mobile/WordPress-iOS/commit/75accec708c9c25481698561d76089978d3b1c3f
+ios,Performance bad practices,https://github.com/mozilla-mobile/firefox-ios/commit/94a054778420ae955b05fdb509acd24edd6c55eb
+ios,Performance bad practices,https://github.com/RocketChat/Rocket.Chat.iOS/commit/adb33ea32a97fbb3e9ef77ee5e8fe08cd6e75887
+ios,Performance bad practices,https://github.com/wordpress-mobile/WordPress-iOS/commit/65f1818c4973fad666c5d25dc9e788cb083884ce
+ios,Performance bad practices,https://github.com/irccloud/ios/commit/0ce3f1c60a82c70e663cc5e15fffe39071fbcd09
+ios,Resource leak,https://github.com/aclissold/the-oakland-post/commit/fd9179b83481568ec352e601beb1264c81dfb86f
+ios,Resource leak,https://github.com/weiran/Hackers/commit/19ac8d1d406c56bef9b483dbeeff8de5c28c9dc6
+ios,Resource leak,https://github.com/ChatSecure/ChatSecure-iOS/commit/72352c75103b889179d85da85e99c2725891d6ee
+ios,Resource leak,https://github.com/colloquy/colloquy/commit/6d92d2fd155e5557384f2003bd1698a1f092bbc1
+ios,Resource leak ,https://github.com/Lyndir/Gorillas/commit/70939d0a1833bcb295aba86ac3b01c7757296781
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/618c3a546fa70e0999b8b553fc3c6463abbd60f0
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/44a3c1e31ab8ad53ad5d0ea5d4d221871d9cadfa
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/9f55db243e6140958db99ea3fb94093cfc386fc7
+ios,Resource leak ,https://github.com/herzbube/littlego/commit/2f46e5ee409aea7457ed45c5eb69307363ca52d7
+ios,Resource leak ,https://github.com/herzbube/littlego/commit/62bc4f11c67711299272a1875f66ce36c1f56f48
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/0ae865ecebbc9a5c2dacd171cce0fac2fd764eef
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/a128f9a851e0dbf5d43151643694d85c35ee26f2
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/44d0fc0c7ccc2f908291e451d32143d3f4b8df36
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/1b5436b3482ff3cd88ca9240421fe4df9ec4c969
+ios,Resource leak ,https://github.com/mumble-voip/mumble-iphoneos/commit/f23b5398b5b82c0b3aa97bc55b9ff61a5ad3e778
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/9156debea2d93a496771d66b5bf090acd1644f4d
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/57aea376ae0b04cdf3e0dfacc957464a82783bd8
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/012ef40bd16e4c3fa200c8dfc0b794abab83692a
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/d217efbde347e3cb06d15f4baad73a71525a1b72
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/bfeb101f09c19ed7116a2f1d8cdddbfec15d15ba
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/93cbf6b2db4a5a169122892656f5a7716527aa3f
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/a7c151b68fff8e335bdce8bc1f770ee12a27f309
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/a9bde4e3579f07c31fe3664fdc3b1ba7a7d6805a
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/d2c71858f78cc8ade4c3462fe300053faec9ce20
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/6bded4426fa1156bf3ae0bf2d59387dc76fc0aca
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/c85ba4fa3c93715ba38afbbb3a11c6051337968e
+ios,Resource leak ,https://github.com/mumble-voip/mumble-iphoneos/commit/77a0eacd45fe2375bc4e86abf1c90efae2d848ed
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/f98728de5e7da585776328a4436e4b5d8b2cb5c0
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/3f7617bf98647c48f1854e9a446d4328f9c8c548
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/85b450165ae3571d7f07a0670ef4dc92a1a5c13e
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/11904bc41fb7bd47797f4d0f19d76fc349c7b133
+ios,Resource leak ,https://github.com/herzbube/littlego/commit/55342cbde9b30a6523b12fc0b21cafe1c6c8981d
+ios,Resource leak ,https://github.com/herzbube/littlego/commit/313aa46c7983bd9af7bc197c90d541b1a8e31e73
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/03c71c86e1087b13fa2d50319c514ccd92aa89b8
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/eefff034f7453b51347171cc460393f2ef1e3f96
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/7abf36309c3af02a2587da7c156931230781e636
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/e515b21c6129eb59546ee08fe018b81a855a5fca
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/af5afbc6c749951e2b2018aa58dc84ac30fbdcff
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/b51ec05f964873f767f6ab87d46ecb664d97c6a3
+ios,Resource leak ,https://github.com/zgrossbart/bridges/commit/2a1eabb6a0300bfea127423d18882092e1907b2a
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/28c57745388df26e83be07740c6998921e7bc31c
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/c3d84bc1ef0d7938eb441155ce2cec0d23327185
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/bbda73a61e315b752b84352987fd7c72aa98b8c0
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/52f197f19e8206d2ec69fa4a7edeb7e46da71b0c
+ios,Resource leak ,https://github.com/zgrossbart/bridges/commit/410b840c42b8f08cb91b1a5472a1cf3ac757cea9
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/95b606278686e528ad90e2eca4b1d81525de701b
+ios,Resource leak ,https://github.com/herzbube/littlego/commit/66385d17c878dc138ca8849860c567d27f5dbcb3
+ios,Resource leak ,https://github.com/herzbube/littlego/commit/8ad11bdb7623b8138bca55ef65d95c7fd7d54bf9
+ios,Resource leak ,https://github.com/herzbube/littlego/commit/d64c9d96420ad845131ab682eda7e5cc51eee3ef
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/516b452511c3ce7222eea75d828a6815fd9d8677
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/b8d83f557c68154c20ad6de045c2e34d7dda84af
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/31273e348856526c8b2d75d70b371f3a1ed197d8
+ios,Resource leak ,https://github.com/hkalexling/Buck_Tracker/commit/29f8462710db9476a43a58bf4f6d27fd9c400f6d
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/cafe4911b29fc08ea706d9732abb05891b3f06fb
+ios,Resource leak ,https://github.com/zgrossbart/bridges/commit/71c61804f6f820a89c05df01bc670052dd342525
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/517dca174d77fb89f90e6381d30209c6cfc4c02c
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/0886c86b2295e7b29a01af0e915d4e4fc0ce7378
+ios,Resource leak ,https://github.com/RocketChat/Rocket.Chat.iOS/commit/c2fcfe4029b8f522d28e3cb89c0955de1b70943c
+ios,Resource leak ,https://github.com/wikimedia/wikipedia-ios/commit/189dc977bbcff7013462bded8cc629b014e5833c
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/6b65b482ec61a7dff26d0182e6ec074e629ad95e
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/82ffa9a54c49a182b0ef92abce8e878f1e3a98fa
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/77c0c89696c33183444c73bf79958610c23df192
+ios,Resource leak ,https://github.com/TrustWallet/trust-wallet-ios/commit/aed79af049f20cb58ab980f24363b8a954b7510d
+ios,Resource leak ,https://github.com/TrustWallet/trust-wallet-ios/commit/33a525657ecba79d2bffbbd11b7db12cf31888ec
+ios,Resource leak ,https://github.com/artsy/eigen/commit/574c0660241eed61c94998ec87b52041b150b068
+ios,Resource leak ,https://github.com/herzbube/littlego/commit/cf6e6d2c3403842ef2f7548a03d749ad8ca10b06
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/149e690fd136a6712c9a63dd4821f3e7df2dcf18
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/73f1ed83580e326215207e94580ee7dea1ad548f
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/e06e6346651f44c770161619690df7e9094185a5
+ios,Resource leak ,https://github.com/herzbube/littlego/commit/37616b36cadbfb4e4f083771365b17b2dc1cc7e1
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/f4eba1c8c53d8cbebaa0534013acc3299b69cb2c
+ios,Resource leak ,https://github.com/wikimedia/wikipedia-ios/commit/15b6b78090b8fa16a2b92657b1c48af0e92c923f
+ios,Resource leak ,https://github.com/herzbube/littlego/commit/ecb17a845d5bc3b476369461e94f2c89925ab046
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/18c9eff5a422383c6dbfcc6c8fb7bccd30270cf1
+ios,Resource leak ,https://github.com/herzbube/littlego/commit/8d933f106552fdec995c8923059548aee919ab43
+ios,Resource leak ,https://github.com/zgrossbart/bridges/commit/b9a9d29396e6b4ff6af5984809006974515fc11a
+ios,Resource leak ,https://github.com/herzbube/littlego/commit/a66e3608808577a67f58d9d622545c6f34615841
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/6448180e79ec9fb02099b1b14a745322d613b675
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/c583de2d20a77c9f4620351a01e15f29d3eba067
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/735c0106012d13ac63e17e5a4dfbf059823d921e
+ios,Resource leak ,https://github.com/TrustWallet/trust-wallet-ios/commit/0b39d3f1d33a76a317a649fdecc1b961934c00ca
+ios,Resource leak ,https://github.com/mozilla-mobile/firefox-ios/commit/68d4b8d6dfc634abf25e42ead6372b13d6a9013d
+ios,Resource leak ,https://github.com/TrustWallet/trust-wallet-ios/commit/edc3f091488be562b970b2ab68408c4d72d1d56b
+ios,Resource leak ,https://github.com/TrustWallet/trust-wallet-ios/commit/d9f1b4f1c8294b7aea775a4cf203d5119faefc0c
+ios,Resource leak ,https://github.com/TrustWallet/trust-wallet-ios/commit/5f9acce8c81891b24e208269df491b6fca3153ae
+ios,Resource leak ,https://github.com/TrustWallet/trust-wallet-ios/commit/61f1e7854175a98d6ac8f007c2241360195d3f57
+ios,Resource leak ,https://github.com/irccloud/ios/commit/631ab91d4f56f55671042a95335edcc0df37f342
+ios,Resource leak ,https://github.com/jcs/endless/commit/d20b9e87e6cba07f82e499cbdb3705fd1d48b1b9
+ios,Resource leak ,https://github.com/CatchChat/Yep/commit/9049ec52ee08945922aeb4310493e7c740f1b492
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/c407f19e22c699f31284845f19a1773700dc7903
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/aa3b13fb523992800e6320689489cc78daefcff6
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/aee9bb1b7c53454699622f1126787e2ea1607946
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/48e2705f3501f630b3d395d80d52add864196967
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/4846f1e76eca38f63e8b9faf69dab2624c0b510f
+ios,Resource leak ,https://github.com/mozilla-mobile/firefox-ios/commit/03d48ebda778cef88f535194c16d781464c2d68c
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/96e134d56c9e8c9b3d314bd19dfefaf7439027d5
+ios,Resource leak ,https://github.com/mozilla-mobile/firefox-ios/commit/90428d1474649c6595053cc07276c5884f97befc
+ios,Resource leak ,https://github.com/herzbube/littlego/commit/431d8464b803f79c3202661b2d95ef3bc044b504
+ios,Resource leak ,https://github.com/AaronRandall/Megabite/commit/2c6f31bfc1344488ecfe1714a05b3a8a5bdbb07e
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/5975392072e9fd4f7d394d47c9c5a709ea7fbdb3
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/5669791962fc5022f6b5bceb80c997240d4748c2
+ios,Resource leak ,https://github.com/herzbube/littlego/commit/db788ef8332b67f6c9cc5e340397d135b57324a2
+ios,Resource leak ,https://github.com/wordpress-mobile/WordPress-iOS/commit/fd1addffb8f1fd2dd9d7f7e06ba97ecb5b1d2b72
+ios,Resource leak ,https://github.com/ChatSecure/ChatSecure-iOS/commit/893b0823749847ea87383ce560553cae8ca132fb
+ios,Resource leak ,https://github.com/zgrossbart/bridges/commit/32c6e11e42264f2a7e76d69bc85155dfbcd87acf
+ios,Resource leak ,https://github.com/Lyndir/Gorillas/commit/ecda404a0c7ca982ba9a7b20f10fd677325310e2
+ios,Resource leak ,https://github.com/mozilla-mobile/firefox-ios/commit/433fd8f5bffaed60b9b7b8a85683430b8d6b878d
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/f3eecdd9f79f169b281229834c125e9f3f4d5ef6
+ios,Resource leak ,https://github.com/ChatSecure/ChatSecure-iOS/commit/db6c2d1c1114b3a05da2db8dc5352827ecb4775a
+ios,Resource leak ,https://github.com/mozilla-mobile/firefox-ios/commit/eea5117f1fbff2119bd6479cb5a97e24ea5b185f
+ios,Resource leak ,https://github.com/mozilla-mobile/firefox-ios/commit/4fd4f17583b3bb151fad2de2e31c326d33b66b3c
+ios,Resource leak ,https://github.com/CatchChat/Yep/commit/883e2f8133c1c957344cf41e56586cf6a641098c
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/f48ffaf7998c4d4095632f8dcaf40c0b2e381014
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/fc1500c4c6b10400dbf6efaa884b40e55a3078f2
+ios,Resource leak ,https://github.com/mozilla-mobile/firefox-ios/commit/0fba934f99ab385d174c373bbcc609199d03d8df
+ios,Resource leak ,https://github.com/mozilla-mobile/firefox-ios/commit/d1a84ba96662e7626283538adc996aff713de8c9
+ios,Resource leak ,https://github.com/mozilla-mobile/firefox-ios/commit/5be9b1a9212e107fb502426893eccdee67618523
+ios,Resource leak ,https://github.com/mozilla-mobile/firefox-ios/commit/438a49725805d793ac9622a5fa5eb439cb032698
+ios,Resource leak ,https://github.com/artsy/eigen/commit/5da512f17c2f1f07450ba10bdf9735d0c1fa2728
+ios,Resource leak ,https://github.com/colloquy/colloquy/commit/dac56c7d619c76dd43a78428033e25672b370c33
+ios,Unclear,https://github.com/CatchChat/Yep/commit/6b27b520da32a15f6cbecdbbfd2f65a88d67c2b5
+ios,Unclear,https://github.com/colloquy/colloquy/commit/7bae98a71ebb8f891e0686c96fb55a24240c7fae
+ios,Unclear,https://github.com/colloquy/colloquy/commit/e1cd7932ea6bb30a21ecf76f6c1cfe36a2532a81
+ios,Unclear,https://github.com/colloquy/colloquy/commit/b5791cc67017f2fa197c6d8c583177d3a02ce502
+ios,Unclear,https://github.com/breadwallet/breadwallet/commit/840876dc34cee0550e7591e0862cd8e954bbb0aa
+ios,Unclear,https://github.com/wordpress-mobile/WordPress-iOS/commit/027adf8817c55ec50e233ce2d034749aca718d53
+ios,Unclear,https://github.com/mozilla-mobile/firefox-ios/commit/9eb408444bf0009759dfbecc1ac2ec9d9888e8b9
+ios,Unclear,https://github.com/colloquy/colloquy/commit/bf79c4d5b33e76e8730e5878cc9bb92724e7ce82
+ios,Unclear,https://github.com/kiliankoe/ParkenDD/commit/66a3ae8b9362739c401d05171c8f0488f8fa3dab
+ios,Unclear,https://github.com/colloquy/colloquy/commit/37628a23d583ad85daea4d8e7e3d4e19707e8242
+ios,Unclear,https://github.com/wordpress-mobile/WordPress-iOS/commit/d5eb892d949f229325b8c27f0e2ace3270eef741
+ios,Unclear,https://github.com/colloquy/colloquy/commit/508c0df3cd839aa79b0026ecd3d9141190a035ca
+ios,Unclear,https://github.com/wordpress-mobile/WordPress-iOS/commit/016b805bf1c748deef7eb6d26f345ec1f4bf8c83
+ios,Unclear,https://github.com/colloquy/colloquy/commit/ba619f22201ca3caf8a145e67cdc920f69f22e5d
+ios,Unclear,https://github.com/colloquy/colloquy/commit/66405a4299b8de61d9404496078bb62fc4dd0c99
+ios,Unclear,https://github.com/irccloud/ios/commit/259d40bf3b843594715d9615d7a5afb4a8a6f57d
+ios,Unclear,https://github.com/mozilla-mobile/firefox-ios/commit/e00109f05a873867ed48a0ba3391b6b99fe2fb5f
+ios,Unclear,https://github.com/colloquy/colloquy/commit/d0097d1fefcd82d1dfdfeaf759be23f78f64b00c
+ios,Unclear,https://github.com/mozilla-mobile/firefox-ios/commit/5301129766a756ad5f92ac94369e8849b96bc83b
+ios,Unclear,https://github.com/colloquy/colloquy/commit/c4e33a5847f394a39fd6a7be40b04fb146b779e6
+ios,Unclear,https://github.com/kiliankoe/ParkenDD/commit/a9f893a9f0f945b1ec9b81b4337ef1cf22f94f9c
+ios,Unclear,https://github.com/colloquy/colloquy/commit/4f398938e46cd0c9879a50f0d6a2a5e1ab481a3a
+ios,Unclear,https://github.com/ChatSecure/ChatSecure-iOS/commit/92e5b9546770c90bd2972530f3dfae42c692b8e3
+ios,Unclear,https://github.com/Lyndir/Gorillas/commit/c6ad3779fe906883091b21ef8698a2a7d3597da5
+ios,Unclear,https://github.com/aslanyanhaik/Quick-Chat/commit/11fa08fec9b11e5a51d7fe9fd68d4c1d6f941d06
+ios,Unclear,https://github.com/CatchChat/Yep/commit/47b2b4980c83086b11166b9fd76dee25f1cf4cc7
+ios,Unclear,https://github.com/mozilla-mobile/firefox-ios/commit/1e43f69dc00376ddad9f199ae565bc5eca6a3043
+ios,Unclear,https://github.com/mozilla-mobile/firefox-ios/commit/83145bbcbe5ac6674be32229617b4cb23868f44b
+ios,Unclear,https://github.com/colloquy/colloquy/commit/7141ae3125777c73f6a8c06354046aa4a1d82090
+ios,Unclear,https://github.com/colloquy/colloquy/commit/4c1599ededb3e0650dece16c33196d8c3ae77eb9
+ios,Unclear,https://github.com/colloquy/colloquy/commit/98652810ad1006c2fd02d5a54d68723a2cd37818
+ios,Unclear,https://github.com/colloquy/colloquy/commit/8555dac651e5ab32cbd41e8192269f18f983f2a6
+ios,Unclear,https://github.com/colloquy/colloquy/commit/af65bc0f51e379791ae6356f58e236141d7ce338
+ios,Unclear,https://github.com/colloquy/colloquy/commit/fe65423dd7aca3b0e3d28d23ca9709e111ec8790
+ios,Unclear,https://github.com/colloquy/colloquy/commit/c78736941d7eecd0e0624c8e11ac4331528d8a13
+ios,Unclear,https://github.com/mumble-voip/mumble-iphoneos/commit/2e0845c21a1c6cf9596169f98736f78b62f08789
+ios,Unclear,https://github.com/breadwallet/breadwallet/commit/5f99d526aa63777723e71ae48af8987b9282c360
+ios,Unclear,https://github.com/OnionBrowser/OnionBrowser/commit/ab5b0690601b743d7002816ef784cd44fa566e94
+ios,Unclear,https://github.com/wikimedia/wikipedia-ios/commit/f9b0aa079a3a951bd2dfbe1c42ac5129d82b4470
+ios,Unclear,https://github.com/aslanyanhaik/Quick-Chat/commit/b7a83c278fb1a2f3c1306f2946d51ae532d448a8
+ios,Unclear,https://github.com/colloquy/colloquy/commit/b21d5665f66efe6fbcfb8c2c823152b90f78d483
+ios,Unclear,https://github.com/wordpress-mobile/WordPress-iOS/commit/e98fa18e80aff9613e0b8acbb7d5b5110919e1bb
+ios,Unclear,https://github.com/colloquy/colloquy/commit/13091372a8164add1ce89f703013db29b73b0764
+ios,Unclear,https://github.com/herzbube/littlego/commit/635051c0201637ebb53ed142adc49a5c68d6ff9f
+ios,Unclear,https://github.com/colloquy/colloquy/commit/44a91b5ffad73cce56b87d12a9aa7e873a136ff1
+ios,Unclear,https://github.com/colloquy/colloquy/commit/b47cc2e49d89ea31d1e1a82c5dac072e8cb8b637
+ios,Unclear,https://github.com/colloquy/colloquy/commit/bb8d537bf2f3d021bcfd3542822a184cb54c1c04
+ios,Unclear,https://github.com/colloquy/colloquy/commit/39ad7ed1995cfa285c946fc37ca18b9d00642816
+ios,Unclear,https://github.com/colloquy/colloquy/commit/32031f24e3e30c461c530b2113a1a69a2f553a39
+ios,Unclear,https://github.com/colloquy/colloquy/commit/e2f8e3fac302ba153dd21de44fd687c788ed2dba
+ios,Unclear,https://github.com/wikimedia/wikipedia-ios/commit/fb456cc0bb164d7793c4e82077f010c7fc6a9224
+ios,Unclear,https://github.com/colloquy/colloquy/commit/ab2e492a126e6d38f18f818d424081b4e8ecb51b

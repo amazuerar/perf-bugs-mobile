@@ -1,0 +1,54 @@
+﻿Name,Repository URL,Age (Months),Main Language,Files,LOC,Commits,Contributors,Size reported by Repository (KB),On store,Category
+AFWall+,https://github.com/ukanth/afwall,83,Java,300,46373,1416,18,24929,Yes,Tools
+Amaze File Manager,https://github.com/arpitkh96/AmazeFileManager,68,Java,537,60788,3490,91,44978,Yes,Tools
+AntennaPod,https://github.com/antennapod/AntennaPod,93,Java,556,74229,4501,90,31201,Yes,Photo and Video
+Antox,https://github.com/Antox/Antox,68,Scala,362,22358,2640,64,25811,Yes,Communication
+Better Battery Stats,https://github.com/asksven/BetterBatteryStats,33,Java,289,30578,206,7,54417,Yes,Tools
+Bitcoin Wallet,https://github.com/bitcoin-wallet/bitcoin-wallet,102,Java,379,36668,3199,26,32405,Yes,Books and Reference
+Cgeo,https://github.com/cgeo/cgeo,98,Java,1586,171197,11199,90,300719,Yes,Entertainment
+ConnectBot,https://github.com/connectbot/connectbot,221,Java,317,77496,1702,42,6997,Yes,Communication
+Conversations,https://github.com/siacs/Conversations,68,Java,466,76346,5225,100,28273,Yes,Communication
+DeviceControl,https://github.com/Evisceration/DeviceControl,69,Java,466,35386,1042,11,16446,No,Productivity
+DuckDuckGo,https://github.com/duckduckgo/android,32,Kotlin,446,39818,529,11,14592,Yes,Tools
+Etar,https://github.com/xsoh/Etar-Calendar,131,Java,392,63623,5593,70,33206,Yes,Productivity
+FBReaderJ,https://github.com/geometer/FBReaderJ,143,Java,1525,233523,9034,38,64544,Yes,Books and Reference
+K-9 Mail,https://github.com/k9mail/k-9,131,Java,1222,157089,8045,191,58834,Yes,Communication
+Kontalk Messenger,https://github.com/kontalk/androidclient,100,Java,569,66921,6463,43,56596,Yes,Communication
+Lightning Browser,https://github.com/anthonycr/Lightning-Browser,79,Kotlin,301,22309,1818,69,13203,Yes,Communication
+Link Bubble,https://github.com/brave/browser-android,77,Java,258,34462,2372,8,58729,Yes,Communication
+Mapbox Demo,https://github.com/mapbox/mapbox-android-demo,67,Java,327,27443,655,22,117920,Yes,Libraries and Demo
+MDX,https://github.com/erdemorman/mdx,41,Java,945,15255,58,2,698,No,Tools
+Mirakel,https://github.com/MirakelX/mirakel-android,113,Java,750,68873,3722,9,106267,No,Productivity
+MultiROM Manager,https://github.com/Tasssadar/MultiROMMgr,71,Java,151,12269,403,36,4141,No,Productivity
+NewPipe,https://github.com/theScrabi/NewPipe,49,Java,456,53279,3732,254,24076,No,Photo and Video
+Omni-Notes,https://github.com/federicoiosue/Omni-Notes,71,Java,383,36137,2635,18,40365,Yes,Productivity
+Opengur,https://github.com/Kennyc1012/Opengur,62,Java,315,21290,1289,3,34276,Yes,Entertainment
+OpenKeychain,https://github.com/open-keychain/open-keychain,113,Java,1113,133468,7071,94,77491,Yes,Communication
+OpenLauncher,https://github.com/BennyKok/OpenLauncher,38,Java,207,21152,836,45,29478,Yes,Personalization
+OS Monitor,https://github.com/eolwral/OSMonitor,77,Java,201,21080,353,6,5141,Yes,Tools
+OsmAnd,https://github.com/osmandapp/Osmand,113,Java,2037,584702,51395,549,409580,Yes,Maps and Navigation
+OwnCloud,https://github.com/owncloud/android,97,Java,521,76024,6825,63,208059,Yes,Productivity
+Red Moon,https://github.com/raatmarien/red-moon,51,Kotlin,121,7247,969,76,4945,Yes,Tools
+RedReader,https://github.com/QuantumBadger/RedReader,78,Java,351,44499,1242,86,4529,Yes,News and Magazines
+Riot.im*,https://github.com/vector-im/riot-android,52,Java,557,101762,5725,158,857383,Yes,Communication
+RunnerUp,https://github.com/jonasoreland/runnerup,82,Java,438,49313,2555,32,8248,Yes,Health and Fitness
+Signal Private Messenger,https://github.com/WhisperSystems/Signal-Android,93,Java,1169,150534,3758,174,143355,Yes,Communication
+Silence*,https://github.com/SilenceIM/Silence,93,Java,785,79413,2560,121,68188,Yes,Communication
+Simple Calendar,https://github.com/SimpleMobileTools/Simple-Calendar,44,Kotlin,231,20828,2784,65,13988,Yes,Tools
+Simple Camera,https://github.com/SimpleMobileTools/Simple-Camera,42,Kotlin,83,5429,973,38,8157,Yes,Tools
+Simplenote,https://github.com/automattic/simplenote-android,84,Java,228,14610,1093,25,4800,Yes,Productivity
+Slide,https://github.com/ccrama/Slide,48,Java,734,121123,3613,62,125421,Yes,News and Magazines
+Status,https://github.com/TheAndroidMaster/Status,38,Java,332,17901,538,3,1561,Yes,Personalization
+Tasks,https://github.com/tasks/tasks,129,Java,765,75088,7159,29,101214,Yes,Productivity
+Telegram,https://github.com/DrKLO/Telegram,71,Java,2356,874408,316,10,155063,Yes,Communication
+Terminal Emulator for Android,https://github.com/jackpal/Android-Terminal-Emulator,109,Java,197,19048,1038,40,6230,Yes,Tools
+Timber,https://github.com/naman14/Timber,51,Java,310,27224,586,33,17394,Yes,Music and Audio
+Tomahawk,https://github.com/tomahawk-player/tomahawk-android,86,Java,586,50558,2525,13,29509,No,Photo and Video
+Wire*,https://github.com/wireapp/wire-android,45,Scala,1197,87168,4285,27,63870,Yes,Business and Economy
+WordPress,https://github.com/wordpress-mobile/WordPress-Android,120,Java,1906,249466,32195,86,199191,Yes,Productivity
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
